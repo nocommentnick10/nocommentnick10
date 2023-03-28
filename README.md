@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
   
   - 🌱 I’m currently learning <b> JavaScript </b> <br>
-  - 🔭 I’m currently working on <b> WebMinde Frontend </b> <br>
+  - 🔭 I’m currently working on <b> Budjet Calculator JS </b> <br>
   - 📫 How to reach me: <a href="https://kalinovne.ru/"> My website </a>
