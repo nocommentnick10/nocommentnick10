@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
   
   - 🌱 I’m currently learning <b> JavaScript </b> <br>
-  - 🔭 I’m currently working on <b> Real Estate store SPA </b> <br>
+  - 🔭 I’m currently working on <b> REST API for SPA from mtoo repo </b> <br>
   - 📫 How to reach me: <a href="https://kalinovne.ru/"> My website </a>
