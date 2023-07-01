@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </div
 
   
-  - 🌱 I’m currently learning <b> JavaScript </b> <br>
-  - 🔭 I’m currently working on <b> REST API for SPA from mtoo repo </b> <br>
+  - 🌱 I’m currently learning <b> React </b> <br>
+  - 🔭 I’m currently working on <b> Yandex practicum "react-burger" project </b> <br>
   - 📫 How to reach me: <a href="https://kalinovne.ru/"> My website </a>
